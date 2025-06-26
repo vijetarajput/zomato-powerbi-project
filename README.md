@@ -48,7 +48,7 @@ To help Zomato identify business insights by building an interactive dashboard t
 ![Low Cost Restaurants](screenshots/Desktop%20Layout%20View/Low_Cost_Restaurants.png)
 
 #### Services Provided Page
-![Services Provided](screenshots/Desktop%20Layout%20View/Interactive_Filters.png)
+![Services Provided](screenshots/Desktop%20Layout%20View/Services Provided.png)
 
 #### Cuisine Analysis Page
 ![Top Multi Cuisine Restaurants](screenshots/Desktop%20Layout%20View/Top_Multi_Cuisine_Restaurants.png)
