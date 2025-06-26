@@ -58,7 +58,7 @@ To help Zomato identify business insights by building an interactive dashboard t
 ### Mobile Layout
 
 #### Geographical Insights Page
-![Geographical Insights - Mobile](screenshots/Mobile%20Layout%20View/Geographical%20Insights.png)
+![Geographical Insights - Mobile](screenshots/Mobile%20Layout%20View/Restaurants%20Overview.png)
 
 #### Top Rated Restaurants Page
 ![Top Rated Restaurants - Mobile](screenshots/Mobile%20Layout%20View/Top%20Rated%20Restaurants.png)
