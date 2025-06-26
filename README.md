@@ -34,7 +34,7 @@ To help Zomato identify business insights by building an interactive dashboard t
 - DAX
 - Power Query
 
-## 📷 Sample Dashboard View
+## Sample Dashboard View
 
 ### Desktop Layout
 
