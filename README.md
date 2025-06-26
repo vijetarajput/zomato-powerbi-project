@@ -36,40 +36,40 @@ To help Zomato identify business insights by building an interactive dashboard t
 
 ## 📷 Sample Dashboard View
 
-### 🖥️ Desktop Layout
+### Desktop Layout
 
-#### 📍 Geographical Insights Page
+#### Geographical Insights Page
 ![Restaurants Overview](screenshots/Desktop%20Layout%20View/Restaurants_Overview.png)
 
-#### ⭐ Top Rated Restaurants Page
+#### Top Rated Restaurants Page
 ![Top Rated Restaurants](screenshots/Desktop%20Layout%20View/Rated_by_feedback.png)
 
-#### 💸 Low Cost Restaurants Page
+#### Low Cost Restaurants Page
 ![Low Cost Restaurants](screenshots/Desktop%20Layout%20View/Low_Cost_Restaurants.png)
 
-#### 🛎️ Services Provided Page
+#### Services Provided Page
 ![Services Provided](screenshots/Desktop%20Layout%20View/Interactive_Filters.png)
 
-#### 🍽️ Cuisine Analysis Page
+#### Cuisine Analysis Page
 ![Top Multi Cuisine Restaurants](screenshots/Desktop%20Layout%20View/Top_Multi_Cuisine_Restaurants.png)
 
 ---
 
-### 📱 Mobile Layout
+### Mobile Layout
 
-#### 📍 Geographical Insights Page
+#### Geographical Insights Page
 ![Geographical Insights - Mobile](screenshots/Mobile%20Layout%20View/Geographical%20Insights.png)
 
-#### ⭐ Top Rated Restaurants Page
+#### Top Rated Restaurants Page
 ![Top Rated Restaurants - Mobile](screenshots/Mobile%20Layout%20View/Top%20Rated%20Restaurants.png)
 
-#### 💸 Low Cost Restaurants Page
+#### Low Cost Restaurants Page
 ![Low Cost Restaurants - Mobile](screenshots/Mobile%20Layout%20View/Low%20Cost%20Restaurants.png)
 
-#### 🛎️ Services Provided Page
+#### Services Provided Page
 ![Services Provided - Mobile](screenshots/Mobile%20Layout%20View/Services%20Provided.png)
 
-#### 🍽️ Cuisine Analysis Page
+#### Cuisine Analysis Page
 ![Cuisine Analysis - Mobile](screenshots/Mobile%20Layout%20View/Cuisine%20Analysis.png)
 
 ## How to Use
